@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photoshop on Siddhanth J Ajri</title>
+    <link>https://SiddAjriY2Jaccount.github.io/designs/photoshop/</link>
+    <description>Recent content in Photoshop on Siddhanth J Ajri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Siddhanth J Ajri</copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://SiddAjriY2Jaccount.github.io/designs/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KRIDA - Diagnosis of Intellectual Disability</title>
+      <link>https://SiddAjriY2Jaccount.github.io/portfolio/krida/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/portfolio/krida/</guid>
+      <description>This is the flagship product of our entrepreneurial venture, Vincere Solutions. This desktop application developed using Python incorporates a set of standardized tests, the results of which are fed as input to a Deep Neural Network Model, to detect the early onset of Intellectual Disability (ID). The app was reviewed in a conference conducted by Victoria Hospital and received certification. Furthermore, talks to implement the app in primary schools as a screening tool for ID are in progress.</description>
+    </item>
+    
+  </channel>
+</rss>
