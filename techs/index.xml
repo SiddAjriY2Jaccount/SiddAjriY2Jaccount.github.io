@@ -13,11 +13,65 @@
     
     
     <item>
+      <title>Apache Server</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/apache-server/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/apache-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arduino</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/arduino/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/bootstrap/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/css/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/django/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Firebase</title>
       <link>https://SiddAjriY2Jaccount.github.io/techs/firebase/</link>
       <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
       
       <guid>https://SiddAjriY2Jaccount.github.io/techs/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/html/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/html/</guid>
       <description></description>
     </item>
     
@@ -36,6 +90,33 @@
       <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
       
       <guid>https://SiddAjriY2Jaccount.github.io/techs/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/raspberry-pi/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensor technology</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/sensor-technology/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/sensor-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLite3</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/sqlite3/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/sqlite3/</guid>
       <description></description>
     </item>
     

@@ -21,5 +21,14 @@
       <description>This is the flagship product of our entrepreneurial venture, Vincere Solutions. This desktop application developed using Python incorporates a set of standardized tests, the results of which are fed as input to a Deep Neural Network Model, to detect the early onset of Intellectual Disability (ID). The app was reviewed in a conference conducted by Victoria Hospital and received certification. Furthermore, talks to implement the app in primary schools as a screening tool for ID are in progress.</description>
     </item>
     
+    <item>
+      <title>StreamItV2</title>
+      <link>https://SiddAjriY2Jaccount.github.io/portfolio/streamit/</link>
+      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/portfolio/streamit/</guid>
+      <description>A web application that streams multimedia, both audio and video, which can be accessed by all registered users of the app. Users are able to modify media uploaded by them, but are not authorised to modify media uploaded by other users. Users with admin rights are able to freely add or delete media from the app. Users are also provided the functionality to upload and delete comments.</description>
+    </item>
+    
   </channel>
 </rss>

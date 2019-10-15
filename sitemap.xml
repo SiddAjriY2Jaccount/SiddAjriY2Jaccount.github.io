@@ -3,14 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/post/getting-started/</loc>
+    <loc>https://SiddAjriY2Jaccount.github.io/post/</loc>
     <lastmod>2019-05-03T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/post/</loc>
+    <loc>https://SiddAjriY2Jaccount.github.io/post/getting-started/</loc>
     <lastmod>2019-05-03T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -24,7 +24,35 @@
   </url>
   
   <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/research/fer/</loc>
+    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/research/openeds/</loc>
+    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</loc>
+    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://SiddAjriY2Jaccount.github.io/post/portfolio-definition/</loc>
+    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/research/</loc>
     <lastmod>2019-05-02T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,7 +87,35 @@
   </url>
   
   <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/designs/</loc>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/apache-server/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/arduino/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/bootstrap/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/css/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/django/</loc>
     <lastmod>2018-09-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -67,6 +123,20 @@
   
   <url>
     <loc>https://SiddAjriY2Jaccount.github.io/techs/firebase/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/html/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/portfolio/smartfarm/</loc>
     <lastmod>2018-09-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -87,13 +157,6 @@
   </url>
   
   <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/designs/photoshop/</loc>
-    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://SiddAjriY2Jaccount.github.io/portfolio/</loc>
     <lastmod>2018-09-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -102,6 +165,34 @@
   
   <url>
     <loc>https://SiddAjriY2Jaccount.github.io/techs/python/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/raspberry-pi/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/sensor-technology/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/sqlite3/</loc>
+    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/portfolio/streamit/</loc>
     <lastmod>2018-09-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -123,6 +214,12 @@
   
   <url>
     <loc>https://SiddAjriY2Jaccount.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

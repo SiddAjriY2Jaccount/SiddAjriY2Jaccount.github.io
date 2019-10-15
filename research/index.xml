@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RESEARCH on Siddhanth J Ajri</title>
+    <link>https://SiddAjriY2Jaccount.github.io/research/</link>
+    <description>Recent content in RESEARCH on Siddhanth J Ajri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Siddhanth J Ajri</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:49:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://SiddAjriY2Jaccount.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emotion Recognition through Facial Expressions in Children and Adults using Deep Neural Network</title>
+      <link>https://SiddAjriY2Jaccount.github.io/research/fer/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/research/fer/</guid>
+      <description>&lt;p&gt;#Here are some details about the portfolio settings.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://SiddAjriY2Jaccount.github.io/research/images/happy-2.png&#34;
+         alt=&#34;Plotting Facial Landmarks and using it to perform FER&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Plotting Facial Landmarks and using it to perform FER&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>FaceBook OpenEDS Challenge</title>
+      <link>https://SiddAjriY2Jaccount.github.io/research/openeds/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/research/openeds/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://SiddAjriY2Jaccount.github.io/research/images/fb-openeds.jpg&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>IoT-enabled Hydroponics Farm</title>
+      <link>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</guid>
+      <description>This research was conducted to determine how viable it would be to set up IoT-enabled indoor farm using the concept of Hydroponics. (Add links here)</description>
+    </item>
+    
+  </channel>
+</rss>
