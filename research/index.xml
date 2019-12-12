@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Siddhanth J Ajri</copyright>
+    <lastBuildDate>Fri, 22 Nov 2019 19:49:05 +0200</lastBuildDate>
     
 	<atom:link href="https://SiddAjriY2Jaccount.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>FaceBook OpenEDS Challenge</title>
       <link>https://SiddAjriY2Jaccount.github.io/research/openeds/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Nov 2019 19:49:05 +0200</pubDate>
       
       <guid>https://SiddAjriY2Jaccount.github.io/research/openeds/</guid>
       <description>&lt;figure&gt;
@@ -23,9 +24,23 @@
     </item>
     
     <item>
+      <title>Emotion Recognition through Facial Expressions in Children and Adults using Deep Neural Network</title>
+      <link>https://SiddAjriY2Jaccount.github.io/research/fer/</link>
+      <pubDate>Mon, 18 Nov 2019 19:49:05 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/research/fer/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://SiddAjriY2Jaccount.github.io/research/images/happy-2.png&#34;
+         alt=&#34;Plotting Facial Landmarks and using it to perform FER&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Plotting Facial Landmarks and using it to perform FER&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
       <title>IoT-enabled Hydroponics Farm</title>
       <link>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 May 2018 19:49:05 +0200</pubDate>
       
       <guid>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</guid>
       <description>This research was conducted to determine how viable it would be to set up IoT-enabled indoor farm using the concept of Hydroponics.
