@@ -24,35 +24,7 @@
   </url>
   
   <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/research/fer/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/research/openeds/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://SiddAjriY2Jaccount.github.io/post/portfolio-definition/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/research/</loc>
     <lastmod>2019-05-02T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -220,6 +192,24 @@
   
   <url>
     <loc>https://SiddAjriY2Jaccount.github.io/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/research/openeds/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/research/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

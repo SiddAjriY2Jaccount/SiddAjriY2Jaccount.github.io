@@ -22,41 +22,6 @@
     </item>
     
     <item>
-      <title>Emotion Recognition through Facial Expressions in Children and Adults using Deep Neural Network</title>
-      <link>https://SiddAjriY2Jaccount.github.io/research/fer/</link>
-      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
-      
-      <guid>https://SiddAjriY2Jaccount.github.io/research/fer/</guid>
-      <description>&lt;figure&gt;
-    &lt;img src=&#34;https://SiddAjriY2Jaccount.github.io/research/images/happy-2.png&#34;
-         alt=&#34;Plotting Facial Landmarks and using it to perform FER&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Plotting Facial Landmarks and using it to perform FER&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>FaceBook OpenEDS Challenge</title>
-      <link>https://SiddAjriY2Jaccount.github.io/research/openeds/</link>
-      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
-      
-      <guid>https://SiddAjriY2Jaccount.github.io/research/openeds/</guid>
-      <description>&lt;figure&gt;
-    &lt;img src=&#34;https://SiddAjriY2Jaccount.github.io/research/images/fb-openeds.jpg&#34;/&gt; 
-&lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>IoT-enabled Hydroponics Farm</title>
-      <link>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</link>
-      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
-      
-      <guid>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</guid>
-      <description>This research was conducted to determine how viable it would be to set up IoT-enabled indoor farm using the concept of Hydroponics.
-Find the paper here.</description>
-    </item>
-    
-    <item>
       <title>Portfolio Definition</title>
       <link>https://SiddAjriY2Jaccount.github.io/post/portfolio-definition/</link>
       <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
@@ -146,6 +111,27 @@ For example, see content/_index.md page:</description>
       <guid>https://SiddAjriY2Jaccount.github.io/about/</guid>
       <description>I&amp;rsquo;m a Deep Learning, AI and Computer Vision enthusiast and have taken steps towards exploring my interests in these fields by contributing to Research projects in my college. So far, I have indulged myself in Python programming, IoT, Machine Learning and Data Science projects.
 Apart from academics, I greatly enjoy any creatively stimulating process, which might explain my love for scriptwriting and storytelling, two of my favourite hobbies. I&amp;rsquo;m a huge sports fan, especially Soccer and Cricket.</description>
+    </item>
+    
+    <item>
+      <title>FaceBook OpenEDS Challenge</title>
+      <link>https://SiddAjriY2Jaccount.github.io/research/openeds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/research/openeds/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://SiddAjriY2Jaccount.github.io/research/images/fb-openeds.jpg&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>IoT-enabled Hydroponics Farm</title>
+      <link>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/research/smartfarm/</guid>
+      <description>This research was conducted to determine how viable it would be to set up IoT-enabled indoor farm using the concept of Hydroponics.
+Find the paper here.</description>
     </item>
     
   </channel>
