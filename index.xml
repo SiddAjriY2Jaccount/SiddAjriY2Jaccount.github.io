@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Siddhanth J Ajri</copyright>
-    <lastBuildDate>Fri, 22 Nov 2019 19:49:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 19:47:09 +0200</lastBuildDate>
     
 	<atom:link href="https://SiddAjriY2Jaccount.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project Intern</title>
+      <link>https://SiddAjriY2Jaccount.github.io/portfolio/wipro_internship/</link>
+      <pubDate>Wed, 01 Jan 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/portfolio/wipro_internship/</guid>
+      <description>I was fortunate to have the opportunity to work at one of the biggest IT firms in India today, Wipro Ltd., early in my career. As an intern in the Edge Analytics division, I was first tasked with acclimatising myself to the various cloud and edge infrastructures that I would come across. Post that, I was introduced to Docker and DevOps culture, as my primary task for the next month would be to dockerize Python-based applications that were ready to be deployed.</description>
+    </item>
     
     <item>
       <title>FaceBook OpenEDS Challenge</title>
@@ -32,6 +41,15 @@
       <description>&lt;figure&gt;
     &lt;img src=&#34;https://SiddAjriY2Jaccount.github.io/research/images/happy-2.png&#34;/&gt; 
 &lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Science Intern</title>
+      <link>https://SiddAjriY2Jaccount.github.io/portfolio/innointel/</link>
+      <pubDate>Thu, 10 Oct 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/portfolio/innointel/</guid>
+      <description>In what was my first internship experience, I worked at Innointel Global as a Data Science Intern. I was tasked with developing a relevance classification pipeline for the IESM project. Multiple datasets of websites and their summaries were compiled and the website needed to be classified as relevant to a domain mentioned such as &amp;lsquo;Science &amp;amp; Technology&amp;rsquo; or &amp;lsquo;Manufacturing&amp;rsquo; etc. The pipeline and model developed as part of the internship was directly responsible for pushing deliverables of relevance classification for 42k data points.</description>
     </item>
     
     <item>

@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Siddhanth J Ajri</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 19:47:09 +0200</lastBuildDate>
     
 	<atom:link href="https://SiddAjriY2Jaccount.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Docker</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/docker/</link>
+      <pubDate>Wed, 01 Jan 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Platform</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/google-cloud-platform/</link>
+      <pubDate>Wed, 01 Jan 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/google-cloud-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keras</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/keras/</link>
+      <pubDate>Wed, 01 Jan 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/pandas/</link>
+      <pubDate>Wed, 01 Jan 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/python/</link>
+      <pubDate>Wed, 01 Jan 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/shell/</link>
+      <pubDate>Wed, 01 Jan 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLTK</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/nltk/</link>
+      <pubDate>Thu, 10 Oct 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/nltk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scikit-Learn</title>
+      <link>https://SiddAjriY2Jaccount.github.io/techs/scikit-learn/</link>
+      <pubDate>Thu, 10 Oct 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://SiddAjriY2Jaccount.github.io/techs/scikit-learn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Apache Server</title>
@@ -72,24 +144,6 @@
       <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
       
       <guid>https://SiddAjriY2Jaccount.github.io/techs/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Keras</title>
-      <link>https://SiddAjriY2Jaccount.github.io/techs/keras/</link>
-      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
-      
-      <guid>https://SiddAjriY2Jaccount.github.io/techs/keras/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://SiddAjriY2Jaccount.github.io/techs/python/</link>
-      <pubDate>Sun, 09 Sep 2018 19:47:09 +0200</pubDate>
-      
-      <guid>https://SiddAjriY2Jaccount.github.io/techs/python/</guid>
       <description></description>
     </item>
     

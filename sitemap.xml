@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/docker/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/google-cloud-platform/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/keras/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/pandas/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/portfolio/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/portfolio/wipro_internship/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/python/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/shell/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/</loc>
+    <lastmod>2020-01-01T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://SiddAjriY2Jaccount.github.io/research/openeds/</loc>
     <lastmod>2019-11-22T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,15 +87,29 @@
   </url>
   
   <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/</loc>
-    <lastmod>2019-11-22T19:49:05+02:00</lastmod>
+    <loc>https://SiddAjriY2Jaccount.github.io/research/fer/</loc>
+    <lastmod>2019-11-18T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/research/fer/</loc>
-    <lastmod>2019-11-18T19:49:05+02:00</lastmod>
+    <loc>https://SiddAjriY2Jaccount.github.io/portfolio/innointel/</loc>
+    <lastmod>2019-10-10T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/nltk/</loc>
+    <lastmod>2019-10-10T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://SiddAjriY2Jaccount.github.io/techs/scikit-learn/</loc>
+    <lastmod>2019-10-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -136,28 +220,7 @@
   </url>
   
   <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/techs/keras/</loc>
-    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://SiddAjriY2Jaccount.github.io/portfolio/krida/</loc>
-    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/portfolio/</loc>
-    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/techs/python/</loc>
     <lastmod>2018-09-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -186,13 +249,6 @@
   
   <url>
     <loc>https://SiddAjriY2Jaccount.github.io/portfolio/streamit/</loc>
-    <lastmod>2018-09-09T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://SiddAjriY2Jaccount.github.io/techs/</loc>
     <lastmod>2018-09-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
